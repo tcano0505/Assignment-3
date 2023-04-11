@@ -1,6 +1,6 @@
 {
  
-  const questions = [
+  [
   {
     questionType : "true_false",
     questionText : "Python got its name from the series Monty Python's Flying Circus?",
