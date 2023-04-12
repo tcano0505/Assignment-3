@@ -1,0 +1,127 @@
+{
+“quiz1_questions”: [
+  {
+    "num": 1,
+    "questionType": "true_false",
+    "questionText": "Python got its name from the series Monty Python's Flying Circus?",
+    "correctAnswer": "true",
+    "options": ["true", "false"],
+    "explination": "Python creator, Guido van Rossum, wanted a short, unique, and slightly mysterious name. Van Rossum decided on Python since he was also reading scripts from Monty Python's Flying Circus"
+  },
+  {
+    "num": 2,
+    "questionType": "text_input",
+    "questionText": "What HTML tag is used for an Ordered List?",
+    "correctAnswer": "<ol>",
+    "answerFieldId" : "answer_to_question"
+    "explination": "<ol> stands for Ordered List"
+  },
+  {
+    "num": 3,
+    "questionType": "text_input",
+    "questionText": "What HTML tag is used to collect data from users?",
+    "correctAnswer": "<form>",
+    "answerFieldId" : "answer_to_question"
+    "explination": "<form> is the HTML tag that allows you to collect data from users"
+  },
+  {
+    "num": 4,
+    "questionType": "multiple_choice",
+    "questionText": "Which of the following is the brain of the computer?",
+    "correctAnswer": "Central Procesing Unit (CPU)",
+    "options": ["Circuit Board", "Central Procesing Unit (CPU)", "Network Card", "Hard Disk"],
+    "explination": "The Central Processing Unit (CPU) is known as
+  },
+  {
+    "num": 5,
+    "questionType": "multiple_choice",
+    "questionText": "What is inheritance?",
+    "correctAnswer": "Deriving new classes from existing classes",
+    "options":"options": ["Wrapping of data into a single class", "Overloading of classes", "Deriving new classes from existing classes", "Classes with same names"],
+  },
+  {
+    "num": 6,
+    "questionType": "multiple_choice",
+    "questionText": "What is one of the characteristics of a static method in Java?",
+    "correctAnswer": "A static method can access an instance variable without creating an instance of a class",
+    "options":"options":"options": ["A static method can access an instance variable without creating an instance of a class", "A static method belongs to the class", "A static method can access a static variable by creating an instance of a class", "A static method belongs to an instance of the class"],
+  },
+  {
+    "num": 7,
+    "questionType": "multiple_choice",
+    "questionText": "What is CSS?",
+    "correctAnswer": "All of the above",
+    "options":"options":"options":"options": ["CSS is a style sheet language", "CSS is designed to seperate the presentation and content, including layout, colors, and fonts", "CSS is the language used to style the HTML documents", "All of the above"],
+  },
+  {
+    "num": 8,
+    "questionType": "multiple_choice",
+    "questionText": "Which of the following CSS selectors are used to specify a group of elements?",
+    "correctAnswer": "class",
+    "options":"options":"options":"options":"options": ["tag", "class", "id", "both class and tag"],
+  },
+  {
+    "num": 9,
+    "questionType": "multiple_choice",
+    "questionText": "Which of the following is not a Java feature?",
+    "correctAnswer": "Use of Pointers",
+    "options":"options":"options":"options":"options":"options": ["Use of Pointers", "Dynamic and Extensible", "Object-Oriented", "Portable"],
+  },
+  {
+    "num": 10,
+    "questionType": "multiple_choice",
+    "questionText": "Which of the following properties is used to change the font of text?",
+    "correctAnswer": "font-family",
+    "options": ["font-size", "text-align", "text-font", "font-family"],
+  },
+  {
+    "num": 11,
+    "questionType": "multiple_choice",
+    "questionText": "What does DOM stand for?",
+    "correctAnswer": "Document Object Model",
+    "options": ["Document-Oriented Memory", "Document Object Memory", "Document Object Model", "None of the Above"],
+  },
+  {
+    "num": 12,
+    "questionType": "multiple_choice",
+    "questionText": "Which of the following HTML tags is incorrect?",
+    "correctAnswer": "<list>",
+    "options": ["<list>", "<textarea>", "<input>", "<select>"],
+  },
+  {
+    "num": 13,
+    "questionType": "multiple_choice",
+    "questionText": "Which of the following is used to allocate and manage resources for a network?",
+    "correctAnswer": "Server",
+    "options": ["Server", "Bluetooth", "Node", "None of the above"],
+  },
+    {
+    "num": 14,
+    "questionType": "multiple_choice",
+    "questionText": "Which component is used to compile, debug, and execute Java programs?",
+    "correctAnswer": "JDK",
+    "options": ["JRE", "JVM", "JIT", "JDK"],
+  },
+  {
+    "num": 15,
+    "questionType": "multiple_choice",
+    "questionText": "What tag is used to create/form a paragraph?",
+    "correctAnswer": "<p>",
+    "options": ["<br>", "<def>", "<p>", "<hr>"],
+  },
+  {
+    "num": 16,
+    "questionType": "multiple_choice",
+    "questionText": "Which of the following is correct about Javascript?",
+    "correctAnswer": "JavaScript is an Object-Based language",
+    "options": ["JavaScript is an Object-Oriented language", "JavaScript is an Assembly-language", "JavaScript is a High-Level language", "JavaScript is an Object-Based language"],
+  },
+  {
+    "num": 17,
+    "questionType": "text_input",
+    "questionText": "What HTML tag is used to embed CSS into the HTML page?",
+    "correctAnswer": "<style>",
+    "options": "answer_to_question"
+  },
+]
+}
