@@ -30,7 +30,7 @@
     "questionText": "Which of the following is the brain of the computer?",
     "correctAnswer": "Central Procesing Unit (CPU)",
     "options": ["Circuit Board", "Central Procesing Unit (CPU)", "Network Card", "Hard Disk"],
-    "explination": "The Central Processing Unit (CPU) is known as
+    "explination": "The Central Processing Unit (CPU) is known as the brain of the computer because most of the processing is performed by the CPU."
   },
   {
     "num": 5,
