@@ -13,7 +13,7 @@
     "questionType": "text_input",
     "questionText": "What HTML tag is used for an Ordered List?",
     "correctAnswer": "<ol>",
-    "answerFieldId" : "answer_to_question"
+    "answerFieldId" : "answer_to_question",
     "explination": "<ol> stands for Ordered List"
   },
   {
@@ -21,7 +21,7 @@
     "questionType": "text_input",
     "questionText": "What HTML tag is used to collect data from users?",
     "correctAnswer": "<form>",
-    "answerFieldId" : "answer_to_question"
+    "answerFieldId" : "answer_to_question",
     "explination": "<form> is the HTML tag that allows you to collect data from users"
   },
   {
@@ -132,7 +132,7 @@
     "questionType": "text_input",
     "questionText": "What HTML tag is used to embed CSS into the HTML page?",
     "correctAnswer": "<style>",
-    "options": "answer_to_question"
+    "options": "answer_to_question",
     "explination": "<style> tag is used to embed CSS in HTML page, while <script> is used to embed JS in HTML. <!DOCTYPE html> is HTML5 declaration."
   },
 ]
