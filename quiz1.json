@@ -37,35 +37,39 @@
     "questionType": "multiple_choice",
     "questionText": "What is inheritance?",
     "correctAnswer": "Deriving new classes from existing classes",
-    "options":"options": ["Wrapping of data into a single class", "Overloading of classes", "Deriving new classes from existing classes", "Classes with same names"],
+    "options":["Wrapping of data into a single class", "Overloading of classes", "Deriving new classes from existing classes", "Classes with same names"],
+    "explination": "Inheritance is the concept of OOPs in which new classes are derived from existing classes in order to reuse the properties of classes defined earlier."
   },
   {
     "num": 6,
     "questionType": "multiple_choice",
     "questionText": "What is one of the characteristics of a static method in Java?",
     "correctAnswer": "A static method can access an instance variable without creating an instance of a class",
-    "options":"options":"options": ["A static method can access an instance variable without creating an instance of a class", "A static method belongs to the class", "A static method can access a static variable by creating an instance of a class", "A static method belongs to an instance of the class"],
-  },
+    "options":["A static method can access an instance variable without creating an instance of a class", "A static method belongs to the class", "A static method can access a static variable by creating an instance of a class", "A static method belongs to an instance of the class"],
+    "explination": "Static methods are methods that belong to the class rather than to any specific instance of the class. Static methods can be called directly on the class itself without needing to create an instance of the class first."  },
   {
     "num": 7,
     "questionType": "multiple_choice",
     "questionText": "What is CSS?",
     "correctAnswer": "All of the above",
-    "options":"options":"options":"options": ["CSS is a style sheet language", "CSS is designed to seperate the presentation and content, including layout, colors, and fonts", "CSS is the language used to style the HTML documents", "All of the above"],
+    "options":["CSS is a style sheet language", "CSS is designed to seperate the presentation and content, including layout, colors, and fonts", "CSS is the language used to style the HTML documents", "All of the above"],
+    "explination":"CSS is a style sheet language that stands for Cascading Style Sheet and is used to style HTML documents. CSS is mainly designed to separate the presentation and content, including layout, colors, and fonts."
   },
   {
     "num": 8,
     "questionType": "multiple_choice",
     "questionText": "Which of the following CSS selectors are used to specify a group of elements?",
     "correctAnswer": "class",
-    "options":"options":"options":"options":"options": ["tag", "class", "id", "both class and tag"],
+    "options":["tag", "class", "id", "both class and tag"],
+    "explination": "Class selectors are used to specify a group of elements. Id selector specifies a particular unique element."
   },
   {
     "num": 9,
     "questionType": "multiple_choice",
     "questionText": "Which of the following is not a Java feature?",
     "correctAnswer": "Use of Pointers",
-    "options":"options":"options":"options":"options":"options": ["Use of Pointers", "Dynamic and Extensible", "Object-Oriented", "Portable"],
+    "options":["Use of Pointers", "Dynamic and Extensible", "Object-Oriented", "Portable"],
+    "explination": "Pointers is not a Java feature. Java provides an efficient abstraction layer for developing without using a pointer in Java."
   },
   {
     "num": 10,
@@ -73,6 +77,7 @@
     "questionText": "Which of the following properties is used to change the font of text?",
     "correctAnswer": "font-family",
     "options": ["font-size", "text-align", "text-font", "font-family"],
+    "explination": "font-size changes the size of your font, text-align affects the position of text, and text-font is not a HTML property"
   },
   {
     "num": 11,
@@ -80,6 +85,7 @@
     "questionText": "What does DOM stand for?",
     "correctAnswer": "Document Object Model",
     "options": ["Document-Oriented Memory", "Document Object Memory", "Document Object Model", "None of the Above"],
+    "explination": "The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content."
   },
   {
     "num": 12,
@@ -87,6 +93,7 @@
     "questionText": "Which of the following HTML tags is incorrect?",
     "correctAnswer": "<list>",
     "options": ["<list>", "<textarea>", "<input>", "<select>"],
+    "explination": "The correct tag to create a list is <li> not <list>."
   },
   {
     "num": 13,
@@ -94,6 +101,7 @@
     "questionText": "Which of the following is used to allocate and manage resources for a network?",
     "correctAnswer": "Server",
     "options": ["Server", "Bluetooth", "Node", "None of the above"],
+    "explination": "Servers allocate and manage resoucres for a network through responding to any requests made to the server. Based on the request the server respondes accordingly to the client."
   },
     {
     "num": 14,
@@ -101,6 +109,7 @@
     "questionText": "Which component is used to compile, debug, and execute Java programs?",
     "correctAnswer": "JDK",
     "options": ["JRE", "JVM", "JIT", "JDK"],
+    "explination": "JDK is a core component of Java Environment and provides all the tools, executables and binaries required to compile, debug and execute a Java Program."
   },
   {
     "num": 15,
@@ -108,6 +117,7 @@
     "questionText": "What tag is used to create/form a paragraph?",
     "correctAnswer": "<p>",
     "options": ["<br>", "<def>", "<p>", "<hr>"],
+    "explination": "<p> creates/forms paragraphs, <br> creates a break, <def>  and, <hr> "
   },
   {
     "num": 16,
@@ -115,6 +125,7 @@
     "questionText": "Which of the following is correct about Javascript?",
     "correctAnswer": "JavaScript is an Object-Based language",
     "options": ["JavaScript is an Object-Oriented language", "JavaScript is an Assembly-language", "JavaScript is a High-Level language", "JavaScript is an Object-Based language"],
+    "explination": "Object-based language doesn't support all the features of OOPs like Polymorphism and Inheritance, which JavaScipt does not."  
   },
   {
     "num": 17,
@@ -122,6 +133,7 @@
     "questionText": "What HTML tag is used to embed CSS into the HTML page?",
     "correctAnswer": "<style>",
     "options": "answer_to_question"
+    "explination": "<style> tag is used to embed CSS in HTML page, while <script> is used to embed JS in HTML. <!DOCTYPE html> is HTML5 declaration."
   },
 ]
 }
