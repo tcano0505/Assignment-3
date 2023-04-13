@@ -117,7 +117,7 @@
     "questionText": "What tag is used to create/form a paragraph?",
     "correctAnswer": "<p>",
     "options": ["<br>", "<def>", "<p>", "<hr>"],
-    "explination": "<p> creates/forms paragraphs, <br> creates a break, <def>  and, <hr> "
+    "explination": "<p> creates/forms paragraphs, <br> creates a break, <def> is not a HTML tag and, <hr> defines a shift in topic "
   },
   {
     "num": 16,
