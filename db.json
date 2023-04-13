@@ -134,6 +134,6 @@
     "correctAnswer": "<style>",
     "options": "answer_to_question",
     "explination": "<style> tag is used to embed CSS in HTML page, while <script> is used to embed JS in HTML. <!DOCTYPE html> is HTML5 declaration."
-  },
+  }
 ]
 }
