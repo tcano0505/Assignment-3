@@ -1,5 +1,5 @@
 {
-"questions": [
+"quiz1": [
   {
     "id": 1,
     "questionType": "true_false",
@@ -62,7 +62,9 @@
     "correctAnswer": "class",
     "options":["tag", "class", "id", "both class and tag"],
     "explination": "Class selectors are used to specify a group of elements. Id selector specifies a particular unique element."
-  },
+  }
+  ],
+  "quiz2" : [
   {
     "id": 9,
     "questionType": "multiple_choice",
