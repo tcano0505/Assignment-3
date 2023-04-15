@@ -1,7 +1,7 @@
 {
 "questions": [
   {
-    "num": 1,
+    "id": 1,
     "questionType": "true_false",
     "questionText": "Python got its name from the series Monty Python's Flying Circus?",
     "correctAnswer": "true",
@@ -9,7 +9,7 @@
     "explination": "Python creator, Guido van Rossum, wanted a short, unique, and slightly mysterious name. Van Rossum decided on Python since he was also reading scripts from Monty Python's Flying Circus"
   },
   {
-    "num": 2,
+    "id": 2,
     "questionType": "text_input",
     "questionText": "What HTML tag is used for an Ordered List?",
     "correctAnswer": "<ol>",
@@ -17,7 +17,7 @@
     "explination": "<ol> stands for Ordered List"
   },
   {
-    "num": 3,
+    "id": 3,
     "questionType": "text_input",
     "questionText": "What HTML tag is used to collect data from users?",
     "correctAnswer": "<form>",
@@ -25,7 +25,7 @@
     "explination": "<form> is the HTML tag that allows you to collect data from users"
   },
   {
-    "num": 4,
+    "id": 4,
     "questionType": "multiple_choice",
     "questionText": "Which of the following is the brain of the computer?",
     "correctAnswer": "Central Procesing Unit (CPU)",
@@ -33,7 +33,7 @@
     "explination": "The Central Processing Unit (CPU) is known as the brain of the computer because most of the processing is performed by the CPU."
   },
   {
-    "num": 5,
+    "id": 5,
     "questionType": "multiple_choice",
     "questionText": "What is inheritance?",
     "correctAnswer": "Deriving new classes from existing classes",
@@ -41,14 +41,14 @@
     "explination": "Inheritance is the concept of OOPs in which new classes are derived from existing classes in order to reuse the properties of classes defined earlier."
   },
   {
-    "num": 6,
+    "id": 6,
     "questionType": "multiple_choice",
     "questionText": "What is one of the characteristics of a static method in Java?",
     "correctAnswer": "A static method can access an instance variable without creating an instance of a class",
     "options":["A static method can access an instance variable without creating an instance of a class", "A static method belongs to the class", "A static method can access a static variable by creating an instance of a class", "A static method belongs to an instance of the class"],
     "explination": "Static methods are methods that belong to the class rather than to any specific instance of the class. Static methods can be called directly on the class itself without needing to create an instance of the class first."  },
   {
-    "num": 7,
+    "id": 7,
     "questionType": "multiple_choice",
     "questionText": "What is CSS?",
     "correctAnswer": "All of the above",
@@ -56,7 +56,7 @@
     "explination":"CSS is a style sheet language that stands for Cascading Style Sheet and is used to style HTML documents. CSS is mainly designed to separate the presentation and content, including layout, colors, and fonts."
   },
   {
-    "num": 8,
+    "id": 8,
     "questionType": "multiple_choice",
     "questionText": "Which of the following CSS selectors are used to specify a group of elements?",
     "correctAnswer": "class",
@@ -64,7 +64,7 @@
     "explination": "Class selectors are used to specify a group of elements. Id selector specifies a particular unique element."
   },
   {
-    "num": 9,
+    "id": 9,
     "questionType": "multiple_choice",
     "questionText": "Which of the following is not a Java feature?",
     "correctAnswer": "Use of Pointers",
@@ -72,7 +72,7 @@
     "explination": "Pointers is not a Java feature. Java provides an efficient abstraction layer for developing without using a pointer in Java."
   },
   {
-    "num": 10,
+    "id": 10,
     "questionType": "multiple_choice",
     "questionText": "Which of the following properties is used to change the font of text?",
     "correctAnswer": "font-family",
@@ -80,7 +80,7 @@
     "explination": "font-size changes the size of your font, text-align affects the position of text, and text-font is not a HTML property"
   },
   {
-    "num": 11,
+    "id": 11,
     "questionType": "multiple_choice",
     "questionText": "What does DOM stand for?",
     "correctAnswer": "Document Object Model",
@@ -88,7 +88,7 @@
     "explination": "The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content."
   },
   {
-    "num": 12,
+    "id": 12,
     "questionType": "multiple_choice",
     "questionText": "Which of the following HTML tags is incorrect?",
     "correctAnswer": "<list>",
@@ -96,7 +96,7 @@
     "explination": "The correct tag to create a list is <li> not <list>."
   },
   {
-    "num": 13,
+    "id": 13,
     "questionType": "multiple_choice",
     "questionText": "Which of the following is used to allocate and manage resources for a network?",
     "correctAnswer": "Server",
@@ -104,7 +104,7 @@
     "explination": "Servers allocate and manage resoucres for a network through responding to any requests made to the server. Based on the request the server respondes accordingly to the client."
   },
     {
-    "num": 14,
+    "id": 14,
     "questionType": "multiple_choice",
     "questionText": "Which component is used to compile, debug, and execute Java programs?",
     "correctAnswer": "JDK",
@@ -112,7 +112,7 @@
     "explination": "JDK is a core component of Java Environment and provides all the tools, executables and binaries required to compile, debug and execute a Java Program."
   },
   {
-    "num": 15,
+    "id": 15,
     "questionType": "multiple_choice",
     "questionText": "What tag is used to create/form a paragraph?",
     "correctAnswer": "<p>",
@@ -120,7 +120,7 @@
     "explination": "<p> creates/forms paragraphs, <br> creates a break, <def> is not a HTML tag and, <hr> defines a shift in topic "
   },
   {
-    "num": 16,
+    "id": 16,
     "questionType": "multiple_choice",
     "questionText": "Which of the following is correct about Javascript?",
     "correctAnswer": "JavaScript is an Object-Based language",
@@ -128,7 +128,7 @@
     "explination": "Object-based language doesn't support all the features of OOPs like Polymorphism and Inheritance, which JavaScipt does not."  
   },
   {
-    "num": 17,
+    "id": 17,
     "questionType": "text_input",
     "questionText": "What HTML tag is used to embed CSS into the HTML page?",
     "correctAnswer": "<style>",
