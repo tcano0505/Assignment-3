@@ -1,5 +1,5 @@
 {
-"quiz1": [
+"quiz2": [
   {
     "id": 1,
     "questionType": "true_false",
@@ -64,7 +64,7 @@
     "explination": "Class selectors are used to specify a group of elements."
   }
   ],
-  "quiz2" : [
+  "quiz1" : [
   {
     "id": 9,
     "questionType": "multiple_choice",
