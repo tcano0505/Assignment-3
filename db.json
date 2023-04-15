@@ -10,58 +10,58 @@
   },
   {
     "id": 2,
-    "questionType": "text_input",
-    "questionText": "What HTML tag is used for an Ordered List?",
-    "correctAnswer": "<ol>",
-    "answerFieldId" : "answer_to_question",
+    "questionType": "true_false",
+    "questionText": "Is the <ul> HTML tag is used for an Ordered List?",
+    "correctAnswer": "false",
+    "options": ["true", "false"],
     "explination": "<ol> stands for Ordered List"
   },
   {
     "id": 3,
-    "questionType": "text_input",
-    "questionText": "What HTML tag is used to collect data from users?",
-    "correctAnswer": "<form>",
-    "answerFieldId" : "answer_to_question",
+    "questionType": "true_false",
+    "questionText": "Is the <form> HTML tag used to collect data from users?",
+    "correctAnswer": "true",
+    "options": ["true", "false"],
     "explination": "<form> is the HTML tag that allows you to collect data from users"
   },
   {
     "id": 4,
-    "questionType": "multiple_choice",
-    "questionText": "Which of the following is the brain of the computer?",
-    "correctAnswer": "Central Procesing Unit (CPU)",
-    "options": ["Circuit Board", "Central Procesing Unit (CPU)", "Network Card", "Hard Disk"],
+    "questionType": "true_false",
+    "questionText": "Are Hard Drives known as the brain of the computer?",
+    "correctAnswer": "false",
+    "options": ["true", "false"],
     "explination": "The Central Processing Unit (CPU) is known as the brain of the computer because most of the processing is performed by the CPU."
   },
   {
     "id": 5,
-    "questionType": "multiple_choice",
-    "questionText": "What is inheritance?",
-    "correctAnswer": "Deriving new classes from existing classes",
-    "options":["Wrapping of data into a single class", "Overloading of classes", "Deriving new classes from existing classes", "Classes with same names"],
+    "questionType": "true_false",
+    "questionText": "Is inheritance deriving new classes from existing classes?",
+    "correctAnswer": "true",
+    "options": ["true", "false"],
     "explination": "Inheritance is the concept of OOPs in which new classes are derived from existing classes in order to reuse the properties of classes defined earlier."
   },
   {
     "id": 6,
-    "questionType": "multiple_choice",
-    "questionText": "What is one of the characteristics of a static method in Java?",
-    "correctAnswer": "A static method can access an instance variable without creating an instance of a class",
-    "options":["A static method can access an instance variable without creating an instance of a class", "A static method belongs to the class", "A static method can access a static variable by creating an instance of a class", "A static method belongs to an instance of the class"],
+    "questionType": "true_false",
+    "questionText": "Do static methods belong to the class rather than a specific instance of a class in Java?",
+    "correctAnswer": "True",
+    "options": ["true", "false"],
     "explination": "Static methods are methods that belong to the class rather than to any specific instance of the class. Static methods can be called directly on the class itself without needing to create an instance of the class first."  },
   {
     "id": 7,
-    "questionType": "multiple_choice",
-    "questionText": "What is CSS?",
-    "correctAnswer": "All of the above",
-    "options":["CSS is a style sheet language", "CSS is designed to seperate the presentation and content, including layout, colors, and fonts", "CSS is the language used to style the HTML documents", "All of the above"],
-    "explination":"CSS is a style sheet language that stands for Cascading Style Sheet and is used to style HTML documents. CSS is mainly designed to separate the presentation and content, including layout, colors, and fonts."
+    "questionType": "true_false",
+    "questionText": "You can add CSS styles to the head of your HTML document by using the <script> tags.",
+    "correctAnswer": "false",
+    "options": ["true", "false"],
+    "explination":"CSS is added to HTML by through the <link> tag"
   },
   {
     "id": 8,
-    "questionType": "multiple_choice",
-    "questionText": "Which of the following CSS selectors are used to specify a group of elements?",
-    "correctAnswer": "class",
-    "options":["tag", "class", "id", "both class and tag"],
-    "explination": "Class selectors are used to specify a group of elements. Id selector specifies a particular unique element."
+    "questionType": "true_false",
+    "questionText": "Is the class CSS selector used to specify a group of elements?",
+    "correctAnswer": "true",
+    "options": ["true", "false"],
+    "explination": "Class selectors are used to specify a group of elements."
   }
   ],
   "quiz2" : [
@@ -131,10 +131,10 @@
   },
   {
     "id": 17,
-    "questionType": "text_input",
+    "questionType": "multiple_choice",
     "questionText": "What HTML tag is used to embed CSS into the HTML page?",
     "correctAnswer": "<style>",
-    "options": "answer_to_question",
+    "options": ["<style>", "<script>", "<!DOCTYPE html>", "None of the Above"],
     "explination": "<style> tag is used to embed CSS in HTML page, while <script> is used to embed JS in HTML. <!DOCTYPE html> is HTML5 declaration."
   }
 ]
